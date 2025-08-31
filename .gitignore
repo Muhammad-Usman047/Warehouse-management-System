@@ -1,0 +1,43 @@
+# NetBeans specific files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Compiled class files
+*.class
+
+# Log file
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+
+# Output folders
+bin/
+out/
+target/
